@@ -51,4 +51,4 @@ def get_prediction_mask():
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', debug=True, port=8000, use_reloader=False)
+    app.run(host='0.0.0.0', debug=False, port=7860, use_reloader=False)
